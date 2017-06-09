@@ -76,6 +76,7 @@ function fe_customizer() {
 	return $instance;
 }
 
+
 /**
  * Setup the plugin instance.
  */
